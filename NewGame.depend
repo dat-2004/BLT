@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1683222364 source:d:\code\project\newgame\global.cpp
+	"Global.hpp"
+
+1683222353 d:\code\project\newgame\global.hpp
+	"LTexture.hpp"
+	"Constants.hpp"
+	"Enemy.hpp"
+
+1683225351 d:\code\project\newgame\ltexture.hpp
+	"Global.hpp"
+	"Constants.hpp"
+
+1683224451 d:\code\project\newgame\constants.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1683225351 source:d:\code\project\newgame\ltexture.cpp
+	"LTexture.hpp"
+
+1683255882 source:d:\code\project\newgame\player.cpp
+	"Player.hpp"
+
+1683205485 d:\code\project\newgame\player.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+
+1683253209 source:d:\code\project\newgame\main.cpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Utils.hpp"
+	"Player.hpp"
+	"Enemy.hpp"
+	"Button.hpp"
+	"Constants.hpp"
+
+1683225283 d:\code\project\newgame\utils.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+	"Player.hpp"
+	"Enemy.hpp"
+	"Button.hpp"
+
+1683225554 source:d:\code\project\newgame\utils.cpp
+	"Utils.hpp"
+
+1683205441 d:\code\project\newgame\enemy.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+
+1683253515 source:d:\code\project\newgame\enemy.cpp
+	"Enemy.hpp"
+
+1682430750 source:d:\code\project\newgame\button.cpp
+	"Button.hpp"
+
+1683205359 d:\code\project\newgame\button.hpp
+	"LTexture.hpp"
+	"Constants.hpp"
+
+1682430750 source:d:\code\project\newgame for someone\button.cpp
+	"Button.hpp"
+
+1683205359 d:\code\project\newgame for someone\button.hpp
+	"LTexture.hpp"
+	"Constants.hpp"
+
+1683225351 d:\code\project\newgame for someone\ltexture.hpp
+	"Global.hpp"
+	"Constants.hpp"
+
+1683713136 d:\code\project\newgame for someone\global.hpp
+	"LTexture.hpp"
+	"Constants.hpp"
+	"Enemy.hpp"
+
+1683713380 d:\code\project\newgame for someone\constants.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1683205441 d:\code\project\newgame for someone\enemy.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+
+1683253515 source:d:\code\project\newgame for someone\enemy.cpp
+	"Enemy.hpp"
+
+1683712552 source:d:\code\project\newgame for someone\global.cpp
+	"Global.hpp"
+
+1683225351 source:d:\code\project\newgame for someone\ltexture.cpp
+	"LTexture.hpp"
+
+1683711889 source:d:\code\project\newgame for someone\player.cpp
+	"Player.hpp"
+
+1683711889 d:\code\project\newgame for someone\player.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+
+1683713905 source:d:\code\project\newgame for someone\utils.cpp
+	"Utils.hpp"
+
+1683712552 d:\code\project\newgame for someone\utils.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+	"Player.hpp"
+	"Enemy.hpp"
+	"Button.hpp"
+
+1683713841 source:d:\code\project\newgame for someone\main.cpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Utils.hpp"
+	"Player.hpp"
+	"Enemy.hpp"
+	"Button.hpp"
+	"Constants.hpp"
+
+1682430750 source:c:\users\admin\downloads\newgame for someone\button.cpp
+	"Button.hpp"
+
+1683205359 c:\users\admin\downloads\newgame for someone\button.hpp
+	"LTexture.hpp"
+	"Constants.hpp"
+
+1683225351 c:\users\admin\downloads\newgame for someone\ltexture.hpp
+	"Global.hpp"
+	"Constants.hpp"
+
+1683713136 c:\users\admin\downloads\newgame for someone\global.hpp
+	"LTexture.hpp"
+	"Constants.hpp"
+	"Enemy.hpp"
+
+1683728350 c:\users\admin\downloads\newgame for someone\constants.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1683205441 c:\users\admin\downloads\newgame for someone\enemy.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+
+1683253515 source:c:\users\admin\downloads\newgame for someone\enemy.cpp
+	"Enemy.hpp"
+
+1683712552 source:c:\users\admin\downloads\newgame for someone\global.cpp
+	"Global.hpp"
+
+1683225351 source:c:\users\admin\downloads\newgame for someone\ltexture.cpp
+	"LTexture.hpp"
+
+1683718627 source:c:\users\admin\downloads\newgame for someone\main.cpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Utils.hpp"
+	"Player.hpp"
+	"Enemy.hpp"
+	"Button.hpp"
+	"Constants.hpp"
+
+1683712552 c:\users\admin\downloads\newgame for someone\utils.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+	"Player.hpp"
+	"Enemy.hpp"
+	"Button.hpp"
+
+1683711889 c:\users\admin\downloads\newgame for someone\player.hpp
+	"LTexture.hpp"
+	"Global.hpp"
+	"Constants.hpp"
+
+1683711889 source:c:\users\admin\downloads\newgame for someone\player.cpp
+	"Player.hpp"
+
+1683713905 source:c:\users\admin\downloads\newgame for someone\utils.cpp
+	"Utils.hpp"
+
